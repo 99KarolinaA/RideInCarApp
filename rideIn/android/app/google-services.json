@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "130438406939",
+    "project_id": "carappridein",
+    "storage_bucket": "carappridein.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130438406939:android:a52839a8c67d4d7d95a9be",
+        "android_client_info": {
+          "package_name": "com.ridein.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130438406939-24p2evobq25vscqfv2hnc1ei6doemdsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ridein.app",
+            "certificate_hash": "a7e632ecf1ede04dfbdbbd1cc00f75e6bd66af1b"
+          }
+        },
+        {
+          "client_id": "130438406939-gu77899idgmi21c4gpihsu81tj7e053s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9GYT_l4i3yqhHFBXL44LmjZ5trVaA5Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130438406939-gu77899idgmi21c4gpihsu81tj7e053s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
